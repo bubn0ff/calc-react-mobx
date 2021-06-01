@@ -47,7 +47,7 @@ body {
 }
 
 .operation:hover {
-  border: 1px solid #01c8cb;
+  border: 2px dotted #01c8cb;
 }
 
 .operation:active {
